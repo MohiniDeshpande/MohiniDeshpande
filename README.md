@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 - Research projects that involve predictive modeling and analysis
 
 ## 📫 How to reach me:
-- Email: [mohinideshpande003@gmail.com](mailto:mohinideshpande003@gmail.com)
 - LinkedIn: [Mohini Deshpande](www.linkedin.com/in/mohini-deshpande-21a5151bb)
 
 ## 😄 Pronouns:
