@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 ## Projects
 Here are some of the projects I've worked on:
 
-1. **Bank Churn Prediction**: Developed a predictive model to identify customers likely to leave the bank using various classification algorithms. Achieved an accuracy score of 94.56%.
+1. **Bank Churn Prediction**: Developed a predictive model to identify customers likely to leave the bank using various classification algorithms. Achieved an accuracy score of 94.31%.
 
 2. **Number Plate Recognition System**: Created a system that utilizes computer vision techniques to identify vehicle number plates.
 
