@@ -31,7 +31,7 @@ Here are some of the projects I've worked on:
 
 1. **Bank Churn Prediction**: Developed a predictive model to identify customers likely to leave the bank using various classification algorithms. Achieved an accuracy score of 94.31%.
 
-2. **Number Plate Recognition System**: Created a system that utilizes computer vision techniques to identify vehicle number plates.
+2. **Steel Defect Detection Using Deep Learning**: Developed an end-to-end solution for detecting defects in steel surfaces using a ResNet152V2 model for image classification and bounding box prediction.  The model was fine-tuned using pre-trained weights on ImageNet and achieved high accuracy of 97.3%. Link to this project: [Steel Defect Detection](https://colab.research.google.com/drive/1-Q5jQzuoSq1Bd_pj_wWrUNzi5Yvxh71Y?usp=sharing)
 
 Feel free to check out my repositories and contribute to my projects!
 
