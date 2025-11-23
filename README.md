@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 
 ## 🌱 I’m currently learning:
 - Advanced machine learning algorithms
+- React.js with OpenAI API integration
 - Deep learning techniques for computer vision
 - Real-time data processing and analytics
 - Data Engineering and Natural Language Processing
@@ -24,7 +25,8 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 ## 😄 Pronouns:
 - She/Her
 
-
+## Current progress
+Currently, I'm working on a project using OpenAI api and React.js to make a simulator
 
 ## Projects
 Here are some of the projects I've worked on:
