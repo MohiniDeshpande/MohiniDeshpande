@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 - She/Her
 
 ## Current progress
-Currently, I'm working on a project using OpenAI api and React.js to make a simulator
+Currently, I'm working on a few different projects and participating in Hackathons to get that experience
 
 ## Projects
 Here are some of the projects I've worked on:
