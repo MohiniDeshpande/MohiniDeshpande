@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 - Machine Learning
 - Computer Vision
 
-## 🌱 I’m currently learning:
+## 🌱 I’m currently diving into:
 - Advanced machine learning algorithms
 - React.js with OpenAI API integration
 - Deep learning techniques for computer vision
@@ -38,7 +38,6 @@ Here are some of the projects I've worked on:
 3. **Stock Market Prediction Model**:  Built a stock prediction model integrating news sentiment analysis using FinBERT with technical indicators (e.g., RSI, Moving Averages). Leveraged Random Forest for accurate price trend predictions, achieving 67% accuracy using real-time stock data and news scraping for enhanced insights.
 
 4. **Data Mining Script**: This is a Web Scraper that is scraping the website 'Reed' for data science related roles that are hiring and saving it into an excel file as a demo.
-
    
 Currently I'm trying to upload my projects that I have saved locally on here to add on to my portfolio.
 
